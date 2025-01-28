@@ -1,2 +1,2 @@
 # US-Equity-Trader
-Trading bot written in Python. 
+This repo is a trading bot written in Python with wrapper for Alpaca markets API. Currently in development.
